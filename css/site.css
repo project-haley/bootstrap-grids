@@ -12,6 +12,10 @@ body>main {
     margin-bottom: 20px;
 }
 
+.container-fluid {
+    padding-top: 0px;
+}
+
 .heroText {
     font-family: modesto-open-shadow, sans-serif;
     font-weight: 400;
